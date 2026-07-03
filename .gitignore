@@ -1,0 +1,14 @@
+# Fichiers Python
+__pycache__/
+*.py[cod]
+
+# Dossiers système et environnements virtuels
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.vscode/
+
+# Fichiers système de votre OS
+.DS_Store
+Thumbs.db
